@@ -108,3 +108,11 @@ D:\Repos\Vidly\Vidly\obj\Debug\Vidly.dll
 D:\Repos\Vidly\Vidly\obj\Debug\Vidly.pdb
 D:\Repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
 D:\Repos\Vidly\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache
+D:\Repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddIsSubscribedToCustomer.resources
+D:\Repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMembershipType.resources
+D:\Repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypes.resources
+D:\Repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationsToCustomerName.resources
+D:\Repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddedNameToMembershipType.resources
+D:\Repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.UpdateMembershipTypeWithNames.resources
+D:\Repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddedBirthdayToCustomerModel.resources
+D:\Repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.UpdateCustomerBirthdays.resources
