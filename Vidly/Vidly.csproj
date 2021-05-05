@@ -211,9 +211,42 @@
     <Compile Include="Migrations\202104230252012_UpdateCustomerBirthdays.Designer.cs">
       <DependentUpon>202104230252012_UpdateCustomerBirthdays.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202105042350577_AddGenreToMovieModel.cs" />
+    <Compile Include="Migrations\202105042350577_AddGenreToMovieModel.Designer.cs">
+      <DependentUpon>202105042350577_AddGenreToMovieModel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202105050002292_InitialModel1.cs" />
+    <Compile Include="Migrations\202105050002292_InitialModel1.Designer.cs">
+      <DependentUpon>202105050002292_InitialModel1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202105050004179_UpdateMovieTable.cs" />
+    <Compile Include="Migrations\202105050004179_UpdateMovieTable.Designer.cs">
+      <DependentUpon>202105050004179_UpdateMovieTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202105050034567_AddGenreTable.cs" />
+    <Compile Include="Migrations\202105050034567_AddGenreTable.Designer.cs">
+      <DependentUpon>202105050034567_AddGenreTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202105050036065_PopulateGenreTable.cs" />
+    <Compile Include="Migrations\202105050036065_PopulateGenreTable.Designer.cs">
+      <DependentUpon>202105050036065_PopulateGenreTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202105050046283_PopulateMoviesTable.cs" />
+    <Compile Include="Migrations\202105050046283_PopulateMoviesTable.Designer.cs">
+      <DependentUpon>202105050046283_PopulateMoviesTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202105050049090_AddingColumnsToMoviesTable.cs" />
+    <Compile Include="Migrations\202105050049090_AddingColumnsToMoviesTable.Designer.cs">
+      <DependentUpon>202105050049090_AddingColumnsToMoviesTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202105050113388_UpdateMovieTable1.cs" />
+    <Compile Include="Migrations\202105050113388_UpdateMovieTable1.Designer.cs">
+      <DependentUpon>202105050113388_UpdateMovieTable1.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\Customer.cs" />
+    <Compile Include="Models\Genre.cs" />
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
     <Compile Include="Models\MembershipType.cs" />
@@ -284,6 +317,7 @@
     <Content Include="Views\Customers\Index.cshtml" />
     <Content Include="Views\Customers\Details.cshtml" />
     <Content Include="Views\Movies\Index.cshtml" />
+    <Content Include="Views\Movies\Details.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -328,6 +362,30 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202104230252012_UpdateCustomerBirthdays.resx">
       <DependentUpon>202104230252012_UpdateCustomerBirthdays.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202105042350577_AddGenreToMovieModel.resx">
+      <DependentUpon>202105042350577_AddGenreToMovieModel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202105050002292_InitialModel1.resx">
+      <DependentUpon>202105050002292_InitialModel1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202105050004179_UpdateMovieTable.resx">
+      <DependentUpon>202105050004179_UpdateMovieTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202105050034567_AddGenreTable.resx">
+      <DependentUpon>202105050034567_AddGenreTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202105050036065_PopulateGenreTable.resx">
+      <DependentUpon>202105050036065_PopulateGenreTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202105050046283_PopulateMoviesTable.resx">
+      <DependentUpon>202105050046283_PopulateMoviesTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202105050049090_AddingColumnsToMoviesTable.resx">
+      <DependentUpon>202105050049090_AddingColumnsToMoviesTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202105050113388_UpdateMovieTable1.resx">
+      <DependentUpon>202105050113388_UpdateMovieTable1.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

@@ -1,4 +1,3 @@
-D:\Repos\Vidly\Vidly\obj\Debug\Vidly.csprojAssemblyReference.cache
 D:\Repos\Vidly\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cache
 D:\Repos\Vidly\Vidly\bin\Vidly.dll.config
 D:\Repos\Vidly\Vidly\bin\Vidly.dll
@@ -116,3 +115,12 @@ D:\Repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddedNameToMembershipType.resour
 D:\Repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.UpdateMembershipTypeWithNames.resources
 D:\Repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddedBirthdayToCustomerModel.resources
 D:\Repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.UpdateCustomerBirthdays.resources
+D:\Repos\Vidly\Vidly\obj\Debug\Vidly.csprojAssemblyReference.cache
+D:\Repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddGenreToMovieModel.resources
+D:\Repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.InitialModel1.resources
+D:\Repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.UpdateMovieTable.resources
+D:\Repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddGenreTable.resources
+D:\Repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateGenreTable.resources
+D:\Repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMoviesTable.resources
+D:\Repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddingColumnsToMoviesTable.resources
+D:\Repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.UpdateMovieTable1.resources
